@@ -10,7 +10,7 @@
     I bridge the gap between infrastructure, security, and applications.
   </p>
   
-  <a href="www.linkedin.com/in/mukhlis-nur-arif-47339b30a" target="_blank">
+  <a href="https://www.linkedin.com/in/mukhlis-nur-arif-47339b30a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[YOUR_PERSONAL_WEBSITE_LINK_IF_ANY]" target="_blank">
@@ -71,9 +71,9 @@ Here are some of the technologies I work with.
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muksiinnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksiinnn&layout=compact&langs_count=8&theme=dracula" alt="Top Programming Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=dracula" alt="Top Programming Languages"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ I'm currently focused on:
 
 I'm always open to discussions, collaborations, or just exchanging ideas. Don't hesitate to reach out to me:
 
--   **LinkedIn**: [https://linkedin.com/in/mukhlis-nur-arif-47339b30a](https://linkedin.com/in/mukhlis-nur-arif-47339b30a)
+-   **LinkedIn**: [https://www.linkedin.com/in/mukhlis-nur-arif-47339b30a](https://www.linkedin.com/in/mukhlis-nur-arif-47339b30a)
 -   **Email**: [mukhlisnurarif.13@gmail.com](mailto:mukhlisnurarif.13@gmail.com)
 
 <p align="center">
