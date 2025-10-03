@@ -71,9 +71,9 @@ Here are some of the technologies I work with.
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muksiinnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=dracula" alt="Top Programming Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksiinnn&layout=compact&langs_count=8&theme=dracula" alt="Top Programming Languages"/>
 </p>
 
 ---
