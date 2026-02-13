@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
   <h1>
-    👋 Hi, I'm Mukhlis Nur Arif!
+    👋 Hi, I'm Sinn!
   </h1>
   <h3>
     An IT professional with a strong foundation in Networking, a passion for Cybersecurity, and a creative drive for Web Development.
