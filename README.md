@@ -67,7 +67,7 @@ Here are some of the technologies I work with.
 </p>
 
 ---
-
+<!--
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -76,8 +76,8 @@ Here are some of the technologies I work with.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksiinnn&layout=compact&langs_count=8&theme=dracula" alt="Top Programming Languages"/>
 </p>
 
----
-
+--- 
+-->
 ### 🌱 What I'm Currently Learning
 
 I'm currently focused on:
